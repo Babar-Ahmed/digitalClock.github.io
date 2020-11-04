@@ -2,7 +2,7 @@
 
 
 
-<img src="img/Ss.png">
+<img src="img/ss.png">
 <b>Digital Clock in Javascript</b>
 
 ## Functionality
